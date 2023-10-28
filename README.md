@@ -1,4 +1,4 @@
-# 120140203-UTS-PWL-Front
+# 120140203-UTS-PWL-Frontend
 ## by Dandy Arkandhiya Putra - PWL RB
 # Panduan Membuka Proyek Website Menggunakan NPM
 ## Langkah 1: Ekstrak Repositori
